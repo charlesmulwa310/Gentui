@@ -1,25 +1,19 @@
 [project]
 name = "gentui"
 version = "0.1.0"
-description = "Add your description here"
+description = "Terminal client for AG-UI agent backends"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "ag-ui-protocol>=1.0.0",
-    "fastapi>=0.142.2",
     "httpx>=0.28.1",
     "jsonpatch>=1.33",
-    "pydantic-settings>=2.15.0",
-    "strands-agents[ollama]>=1.57.2",
-    "strands-harness>=0.1.2",
     "textual>=8.2.8",
     "textual-plotext>=1.0.1",
-    "uvicorn>=0.54.0",
 ]
 
 [project.scripts]
 gentui = "gentui.cli:main"
-server = "gentui.backend.app:main"
 tui = "gentui.cli:main"
 
 [build-system]
@@ -34,3 +28,4 @@ dev = [
 
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
+testpaths = ["tests"]  # the example backend has its own tests and environment
