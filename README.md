@@ -6,7 +6,7 @@
 Point it at any [AG-UI](https://docs.ag-ui.com) backend and get streaming chat, the model's chain of thought,<br>
 tables, charts and human approval, with no frontend to build.
 
-[![CI](https://img.shields.io/github/actions/workflow/status/rahrajlat/Gentui/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/rahrajlat/Gentui/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/rahrajlat/Gentui/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/charlesmulwa310/Gentui/actions/workflows/ci.yml)
 [![Docs](https://img.shields.io/badge/docs-rahrajlat.github.io%2FGentui-4FD6C8?style=flat-square)](https://rahrajlat.github.io/Gentui/)
 [![PyPI](https://img.shields.io/pypi/v/gentui?style=flat-square&color=4FD6C8)](https://pypi.org/project/gentui/)
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/gentui?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/gentui)
@@ -15,11 +15,11 @@ tables, charts and human approval, with no frontend to build.
 [![AG-UI](https://img.shields.io/badge/protocol-AG--UI-A78BFA?style=flat-square)](https://docs.ag-ui.com)
 [![Tested with Strands Agents](https://img.shields.io/badge/tested%20with-Strands%20Agents%20(AWS)-FF9900?style=flat-square)](https://strandsagents.com)
 [![uv](https://img.shields.io/badge/packaged%20with-uv-DE5FE9?style=flat-square)](https://docs.astral.sh/uv/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-7BD88F?style=flat-square)](https://github.com/rahrajlat/Gentui/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-7BD88F?style=flat-square)](https://github.com/charlesmulwa310/Gentui/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/status-alpha-F2C46D?style=flat-square)](#status)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-7BD88F?style=flat-square)](#contributing)
-[![Stars](https://img.shields.io/github/stars/rahrajlat/Gentui?style=flat-square&color=4FD6C8)](https://github.com/rahrajlat/Gentui/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/rahrajlat/Gentui?style=flat-square&color=A78BFA)](https://github.com/rahrajlat/Gentui/commits/main)
+[![Stars](https://img.shields.io/github/stars/rahrajlat/Gentui?style=flat-square&color=4FD6C8)](https://github.com/charlesmulwa310/Gentui/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/rahrajlat/Gentui?style=flat-square&color=A78BFA)](https://github.com/charlesmulwa310/Gentui/commits/main)
 
 </div>
 
@@ -94,7 +94,7 @@ Gentui is **alpha**: tested with the Strands Agents framework over AG-UI and wit
 
 ## Support the project
 
-If Gentui saves you time, please **[star the repo on GitHub](https://github.com/rahrajlat/Gentui)** ⭐. It helps other people find it, and it is the easiest way to say thanks.
+If Gentui saves you time, please **[star the repo on GitHub](https://github.com/charlesmulwa310/Gentui)** ⭐. It helps other people find it, and it is the easiest way to say thanks.
 
 ## Contributing
 
@@ -102,4 +102,4 @@ Issues and pull requests are welcome. Please run the tests (`uv run pytest -q`) 
 
 ## License
 
-[MIT](https://github.com/rahrajlat/Gentui/blob/main/LICENSE). Free to use, modify and distribute, including the [example backend](https://github.com/rahrajlat/Gentui/tree/main/examples/strands-backend).
+[MIT](https://github.com/charlesmulwa310/Gentui/blob/main/LICENSE). Free to use, modify and distribute, including the [example backend](https://github.com/charlesmulwa310/Gentui/tree/main/examples/strands-backend).
