@@ -55,7 +55,7 @@ GentUI.from_langchain(agent).run()    # pip install 'gentui[langchain]'
 
 ### Record and replay
 
-Save any session to JSON, then play it back with pause, a seek bar and speed control. No agent, no network. [Read more](https://rahrajlat.github.io/Gentui/replay/)
+Save any session to JSON, then play it back with pause, a seek bar and speed control. No agent, no network. 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/rahrajlat/Gentui/main/docs/assets/replay.gif" alt="Gentui replay: play, pause, rewind with the seek bar, open the chain of thought, charts and approvals drawn as they were live" width="860">
@@ -63,7 +63,7 @@ Save any session to JSON, then play it back with pause, a seek bar and speed con
 
 ### Compare runs and judge them
 
-Run the same prompts against two versions of your agent, diff the results side by side, and let a judge (Ollama built in, or your own function) score each prompt. Export it all, charts included, to one HTML page. [Read more](https://rahrajlat.github.io/Gentui/compare/)
+Run the same prompts against two versions of your agent, diff the results side by side, and let a judge (Ollama built in, or your own function) score each prompt. Export it all, charts included, to one HTML page. [Read more]
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/rahrajlat/Gentui/main/docs/assets/compare.gif" alt="Gentui compare mode: two runs side by side as a diff, a prompt picker, and a judge panel with a match score and comment for each prompt" width="860">
@@ -71,7 +71,7 @@ Run the same prompts against two versions of your agent, diff the results side b
 
 ## Status
 
-Gentui is **alpha**: tested with the Strands Agents framework over AG-UI and with AgentCore Runtime; other setups are untested. The details are in [Development and status](https://rahrajlat.github.io/Gentui/development/).
+Gentui is **alpha**: tested with the Strands Agents framework over AG-UI and with AgentCore Runtime; other setups are untested.
 
 ## Support the project
 
@@ -79,7 +79,7 @@ If Gentui saves you time, please **[star the repo on GitHub](https://github.com/
 
 ## Contributing
 
-Issues and pull requests are welcome. Please run the tests (`uv run pytest -q`) before opening a PR, and add a test with any behaviour change. See [Development and status](https://rahrajlat.github.io/Gentui/development/).
+Issues and pull requests are welcome. Please run the tests (`uv run pytest -q`) before opening a PR, and add a test with any behaviour change.
 
 ## License
 
