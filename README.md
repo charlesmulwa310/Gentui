@@ -7,7 +7,7 @@ Point it at any [AG-UI](https://docs.ag-ui.com) backend and get streaming chat, 
 tables, charts and human approval, with no frontend to build.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/rahrajlat/Gentui/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/charlesmulwa310/Gentui/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/badge/docs-rahrajlat.github.io%2FGentui-4FD6C8?style=flat-square)](https://rahrajlat.github.io/Gentui/)
+[![Docs](https://img.shields.io/badge/docs-rahrajlat.github.io%2FGentui-4FD6C8?style=flat-square)](https://github.com/charlesmulwa310/Gentui)
 [![PyPI](https://img.shields.io/pypi/v/gentui?style=flat-square&color=4FD6C8)](https://pypi.org/project/gentui/)
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/gentui?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/gentui)
 [![Python](https://img.shields.io/badge/python-3.12%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
