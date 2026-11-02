@@ -45,25 +45,7 @@ GentUI.from_langchain(agent).run()    # pip install 'gentui[langchain]'
 
 ## Documentation
 
-**Full docs, with search: [rahrajlat.github.io/Gentui](https://rahrajlat.github.io/Gentui/)**
 
-| I want to… | Read |
-|---|---|
-| install it and try the demo | [Getting started](https://rahrajlat.github.io/Gentui/getting-started/) |
-| see every command-line flag | [Command-line reference](https://rahrajlat.github.io/Gentui/cli/) |
-| use slash commands, themes and the event inspector | [Commands](https://rahrajlat.github.io/Gentui/commands/) |
-| save a session and play it back | [Record and replay](https://rahrajlat.github.io/Gentui/replay/) |
-| run the same prompts every time | [Run a set of prompts](https://rahrajlat.github.io/Gentui/prompts/) |
-| diff two runs side by side | [Compare runs](https://rahrajlat.github.io/Gentui/compare/) |
-| score runs with my own judge model | [Judges](https://rahrajlat.github.io/Gentui/judges/) |
-| change config, CSS and colours | [Customising](https://rahrajlat.github.io/Gentui/customising/) |
-| add widgets, commands or event hooks | [Plugins](https://rahrajlat.github.io/Gentui/plugins/) |
-| build my own backend in any language | [Backend contract](https://rahrajlat.github.io/Gentui/tool-contract/) |
-| talk to an agent on Amazon Bedrock AgentCore | [AgentCore Runtime](https://rahrajlat.github.io/Gentui/agentcore/) |
-| run a Strands agent in my own process, no server | [Native Strands agents](https://rahrajlat.github.io/Gentui/strands-native/) |
-| run a LangChain / LangGraph agent in my own process | [Native LangChain agents](https://rahrajlat.github.io/Gentui/langchain-native/) |
-| open the UI in a web browser | [In the browser](https://rahrajlat.github.io/Gentui/cli/#in-the-browser) |
-| understand the internals | [How it works](https://rahrajlat.github.io/Gentui/architecture/) |
 
 ## See it
 
